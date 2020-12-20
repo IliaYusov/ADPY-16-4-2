@@ -1,0 +1,8 @@
+.idea
+.env
+venv
+*.pyc
+countries.txt
+log.txt
+.pytest_cache
+__pycache__
